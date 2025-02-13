@@ -1,1 +1,6 @@
-
+{
+  "name": "notes",
+  "author": "wahyu",
+  "description": "A plugin to save and display notes.",
+  "main": "plugin.ts"
+}
